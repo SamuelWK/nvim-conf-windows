@@ -25,6 +25,15 @@ rm $env:LOCALAPPDATA\nvim\*
 git clone git@github.com:SamuelWK/nvim-conf-windows.git $env:LOCALAPPDATA\nvim
 ```
 
-Open nvim for the first time and lazy(package manager) will install all plugins
+Open nvim for the first time and lazy(plugin manager) will install all plugins
 
+# WIKI
+## Plugin manager
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim)
 
+## Theme
+- [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim)
+  
+## List of plugins
+- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs)
+- [vimwiki/vimwiki](https://github.com/chipsenkbeil/vimwiki.nvim)
